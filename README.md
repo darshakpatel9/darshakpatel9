@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... building some Personal Projects.
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning ... NextJs.
 - 👯 I’m looking to collaborate on ... Javascript and React Projects.
 - 📫 How to reach me: ... pateldarshak2636@gmail.com
 - I'm avaiable to work on ReactJs Projects For 1$ :)
