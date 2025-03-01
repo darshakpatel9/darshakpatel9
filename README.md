@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>🔭 I’m currently working on - building some Personal Projects.<br>🌱 I’m currently learning - Web3 Development<br>👯 I’m looking to collaborate on - Javascript and React Projects.<br>📫 How to reach me  - pateldarshak2636@gmail.com<br>👨🏻‍💻 I'm avaiable to work on ReactJs Projects For 1$ :) <br> 📄 View My [Resume](https://drive.google.com/file/d/1ojWSxF9gTN3lRAxIEVKdba4MuvjYXd2O/view?usp=drive_link)
+Hi there 👋<br>🔭 I’m currently working on - building some Personal Projects.<br>🌱 I’m currently learning - Web3 Development<br>👯 I’m looking to collaborate on - Javascript and React Projects.<br>📫 How to reach me  - pateldarshak2636@gmail.com<br>👨🏻‍💻  📄 View My [Resume](https://drive.google.com/file/d/1ojWSxF9gTN3lRAxIEVKdba4MuvjYXd2O/view?usp=drive_link)
 
 
 ## 🌐 Socials:
